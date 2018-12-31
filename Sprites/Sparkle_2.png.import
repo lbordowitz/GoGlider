@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Sparkle_3.png-e755cbebce41aa667d596532f01fc61f.stex"
+path="res://.import/Sparkle_2.png-86e2ef4954da1557186bf821ec0a4fc3.stex"
 
 [deps]
 
-source_file="res://Sprites/Sparkle_3.png"
-dest_files=[ "res://.import/Sparkle_3.png-e755cbebce41aa667d596532f01fc61f.stex" ]
+source_file="res://Sprites/Sparkle_2.png"
+dest_files=[ "res://.import/Sparkle_2.png-86e2ef4954da1557186bf821ec0a4fc3.stex" ]
 
 [params]
 
