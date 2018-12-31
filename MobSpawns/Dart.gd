@@ -30,6 +30,7 @@ func show_on_type():
 
 func self_destruct():
 	hide_yo_kids()
+	$Crunch.play()
 	linear_velocity = kEnemyDropSpeed
 	match type:
 		Right:

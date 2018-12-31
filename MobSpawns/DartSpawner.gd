@@ -34,6 +34,7 @@ func init_dart():
 		vel.x = -vel.x
 	dart.linear_velocity = vel
 	dart.type = type
+	$DartSpawn.play()
 	add_child(dart)
 
 func _process(delta):
@@ -43,6 +44,7 @@ func _process(delta):
 func dart_despawn():
 	var end_position = dart.position
 	remove_child(dart)
+	$DartDespawn.play()
 	dart.queue_free()
 	dart = Dart.instance()
 	$SpawnTimer.start()
