@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/kShredSound.wav-ce4a9576e20283a762bd30381223f547.sample"
+
+[deps]
+
+source_file="res://Sounds/kShredSound.wav"
+dest_files=[ "res://.import/kShredSound.wav-ce4a9576e20283a762bd30381223f547.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

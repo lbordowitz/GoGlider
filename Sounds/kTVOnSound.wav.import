@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/kTVOnSound.wav-56768d27067aad668ecfb51ccbcbcd2c.sample"
+
+[deps]
+
+source_file="res://Sounds/kTVOnSound.wav"
+dest_files=[ "res://.import/kTVOnSound.wav-56768d27067aad668ecfb51ccbcbcd2c.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

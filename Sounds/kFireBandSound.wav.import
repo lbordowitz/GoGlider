@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/kFireBandSound.wav-7ed5c932daf426e1dfa9e6db4e7ca50c.sample"
+
+[deps]
+
+source_file="res://Sounds/kFireBandSound.wav"
+dest_files=[ "res://.import/kFireBandSound.wav-7ed5c932daf426e1dfa9e6db4e7ca50c.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

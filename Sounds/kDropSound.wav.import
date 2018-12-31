@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/kDropSound.wav-153b41bd57d7597abb77bbc173db5edc.sample"
+
+[deps]
+
+source_file="res://Sounds/kDropSound.wav"
+dest_files=[ "res://.import/kDropSound.wav-153b41bd57d7597abb77bbc173db5edc.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

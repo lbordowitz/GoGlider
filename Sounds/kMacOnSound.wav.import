@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/kMacOnSound.wav-17c887f653d516660c35e8e47e2bc597.sample"
+
+[deps]
+
+source_file="res://Sounds/kMacOnSound.wav"
+dest_files=[ "res://.import/kMacOnSound.wav-17c887f653d516660c35e8e47e2bc597.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/kBeepsSound.wav-9503bc7f012aaa468185578adb80c0c5.sample"
+
+[deps]
+
+source_file="res://Sounds/kBeepsSound.wav"
+dest_files=[ "res://.import/kBeepsSound.wav-9503bc7f012aaa468185578adb80c0c5.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

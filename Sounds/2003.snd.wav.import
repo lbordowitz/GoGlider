@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/2003.snd.wav-6ad79c4b5c0460c761ba841e510ee7e4.sample"
+
+[deps]
+
+source_file="res://Sounds/2003.snd.wav"
+dest_files=[ "res://.import/2003.snd.wav-6ad79c4b5c0460c761ba841e510ee7e4.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

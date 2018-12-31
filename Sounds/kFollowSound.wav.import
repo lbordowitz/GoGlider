@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/kFollowSound.wav-7d33672ab0af1099792f3d3feff6f071.sample"
+
+[deps]
+
+source_file="res://Sounds/kFollowSound.wav"
+dest_files=[ "res://.import/kFollowSound.wav-7d33672ab0af1099792f3d3feff6f071.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

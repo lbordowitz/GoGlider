@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/kTransOutSound.wav-1a9e413118c4fe854f4f58c935eec9c4.sample"
+
+[deps]
+
+source_file="res://Sounds/kTransOutSound.wav"
+dest_files=[ "res://.import/kTransOutSound.wav-1a9e413118c4fe854f4f58c935eec9c4.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

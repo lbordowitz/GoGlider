@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/kMicrowavedSound.wav-ad0d32f578dd051359ff8c87dab8a612.sample"
+
+[deps]
+
+source_file="res://Sounds/kMicrowavedSound.wav"
+dest_files=[ "res://.import/kMicrowavedSound.wav-ad0d32f578dd051359ff8c87dab8a612.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

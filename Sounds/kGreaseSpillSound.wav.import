@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/kGreaseSpillSound.wav-de83e2a3a7dca6eb91d0639a4bc3a568.sample"
+
+[deps]
+
+source_file="res://Sounds/kGreaseSpillSound.wav"
+dest_files=[ "res://.import/kGreaseSpillSound.wav-de83e2a3a7dca6eb91d0639a4bc3a568.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

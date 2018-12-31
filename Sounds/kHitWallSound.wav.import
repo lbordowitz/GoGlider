@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/kHitWallSound.wav-852376f29967eb5709419b84f6fdd29b.sample"
+
+[deps]
+
+source_file="res://Sounds/kHitWallSound.wav"
+dest_files=[ "res://.import/kHitWallSound.wav-852376f29967eb5709419b84f6fdd29b.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

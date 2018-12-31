@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/kMacOffSound.wav-a31e9eb0a1badddb7950f48437e6eafc.sample"
+
+[deps]
+
+source_file="res://Sounds/kMacOffSound.wav"
+dest_files=[ "res://.import/kMacOffSound.wav-a31e9eb0a1badddb7950f48437e6eafc.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

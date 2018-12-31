@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/kBuzzerSound.wav-1a745659190ec7c6584acc1322d19c80.sample"
+
+[deps]
+
+source_file="res://Sounds/kBuzzerSound.wav"
+dest_files=[ "res://.import/kBuzzerSound.wav-1a745659190ec7c6584acc1322d19c80.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

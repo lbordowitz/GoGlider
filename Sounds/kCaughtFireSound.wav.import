@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/kCaughtFireSound.wav-4f58a2efe7f27caba342c83f01c614e2.sample"
+
+[deps]
+
+source_file="res://Sounds/kCaughtFireSound.wav"
+dest_files=[ "res://.import/kCaughtFireSound.wav-4f58a2efe7f27caba342c83f01c614e2.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

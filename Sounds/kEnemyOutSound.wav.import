@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/kEnemyOutSound.wav-95cf3c4d6ce5a7e17d9e4d4f1a970059.sample"
+
+[deps]
+
+source_file="res://Sounds/kEnemyOutSound.wav"
+dest_files=[ "res://.import/kEnemyOutSound.wav-95cf3c4d6ce5a7e17d9e4d4f1a970059.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/kChordSound.wav-6c559c9e87a8688517b80a8f543a7101.sample"
+
+[deps]
+
+source_file="res://Sounds/kChordSound.wav"
+dest_files=[ "res://.import/kChordSound.wav-6c559c9e87a8688517b80a8f543a7101.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

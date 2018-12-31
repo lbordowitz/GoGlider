@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/kBonusSound.wav-531876c667ef9846ae1cd8f8ba0e8653.sample"
+
+[deps]
+
+source_file="res://Sounds/kBonusSound.wav"
+dest_files=[ "res://.import/kBonusSound.wav-531876c667ef9846ae1cd8f8ba0e8653.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

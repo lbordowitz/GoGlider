@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/kChime1Sound.wav-80a103307f3a15a079a161ad186f3d13.sample"
+
+[deps]
+
+source_file="res://Sounds/kChime1Sound.wav"
+dest_files=[ "res://.import/kChime1Sound.wav-80a103307f3a15a079a161ad186f3d13.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

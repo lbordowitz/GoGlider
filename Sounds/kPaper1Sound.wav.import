@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/kPaper1Sound.wav-cb87749ae2295be3049f44094c9e4660.sample"
+
+[deps]
+
+source_file="res://Sounds/kPaper1Sound.wav"
+dest_files=[ "res://.import/kPaper1Sound.wav-cb87749ae2295be3049f44094c9e4660.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
