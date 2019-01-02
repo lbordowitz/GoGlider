@@ -4,17 +4,16 @@
 [ext_resource path="res://Sprites/Sparkle_1.png" type="Texture" id=2]
 [ext_resource path="res://Sprites/Sparkle_0.png" type="Texture" id=3]
 
-
 [sub_resource type="SpriteFrames" id=1]
 
 animations = [ {
 "frames": [ ExtResource( 1 ), ExtResource( 2 ), ExtResource( 3 ), ExtResource( 2 ), ExtResource( 1 ) ],
-"loop": true,
+"loop": false,
 "name": "default",
 "speed": 60.0
 } ]
 
-[node name="Sparkle" type="AnimatedSprite"]
+[node name="Sparkle" type="AnimatedSprite" index="0"]
 
 frames = SubResource( 1 )
 animation = "default"

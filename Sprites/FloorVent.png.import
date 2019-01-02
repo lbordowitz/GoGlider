@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Sparkle_3.png-e755cbebce41aa667d596532f01fc61f.stex"
+path="res://.import/FloorVent.png-d58e85a16518bd64b60ee561510aa556.stex"
 
 [deps]
 
-source_file="res://Sprites/Sparkle_3.png"
-dest_files=[ "res://.import/Sparkle_3.png-e755cbebce41aa667d596532f01fc61f.stex" ]
+source_file="res://Sprites/FloorVent.png"
+dest_files=[ "res://.import/FloorVent.png-d58e85a16518bd64b60ee561510aa556.stex" ]
 
 [params]
 
