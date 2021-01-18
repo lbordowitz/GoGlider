@@ -8,7 +8,7 @@ const kEnemyDropSpeed = legacyAdjust*Vector2(0,8)
 var type setget set_type
 
 func set_type(t):
-	if t == Right || t == Left:
+	if t == DartType.Right || t == DartType.Left :
 		type = t
 	show_on_type()
 
@@ -23,9 +23,9 @@ func hide_yo_kids():
 
 func show_on_type():
 	match type:
-		Right:
+		DartType.Right:
 			$RDart.show()
-		Left:
+		DartType.Left:
 			$LDart.show()
 
 func self_destruct():
@@ -33,9 +33,9 @@ func self_destruct():
 	$Crunch.play()
 	linear_velocity = kEnemyDropSpeed
 	match type:
-		Right:
+		DartType.Right:
 			$RDartDead.show()
-		Left:
+		DartType.Left:
 			$LDartDead.show()
 
 func _physics_process(delta):

@@ -19,10 +19,10 @@ func _process(delta):
 
 func _physics_process(delta):
 	if heldRight && heldLeft:
-		if facing == Left:
+		if facing == Facing.Left:
 			# TODO switch facing to the Right
 			pass
-		elif facing == Right:
+		elif facing == Facing.Right:
 			# TODO switch facing to the Left
 			pass
 	elif heldLeft:

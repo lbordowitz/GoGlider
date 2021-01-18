@@ -30,7 +30,7 @@ func sparkle_spawn():
 func init_dart():
 	sparkle_despawn()
 	var vel = kDartVelocity
-	if (type == Left):
+	if (type == DartType.Left):
 		vel.x = -vel.x
 	dart.linear_velocity = vel
 	dart.type = type
